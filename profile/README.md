@@ -1,5 +1,8 @@
 ## Hola a todos 👋
 
+Este repositorio pertenece al grupo de proyecto de Ingenieria en Sistemas GT - Discord.
+Si tienes alguna duda escríbenos a codersfreelancersgt@gmail.com
+
 <!--
 
 🙋‍♀️ A short introduction - what is your organization all about?
