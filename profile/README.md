@@ -3,6 +3,9 @@
 Este repositorio pertenece al grupo de proyecto de Ingenieria en Sistemas GT - Discord.
 Si tienes alguna duda escríbenos a codersfreelancersgt@gmail.com
 
+### Estos somos los participantes que ya logramos hacer un Pull Request
+
+
 <!--
 
 🙋‍♀️ A short introduction - what is your organization all about?
