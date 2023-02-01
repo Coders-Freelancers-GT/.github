@@ -10,6 +10,8 @@ Participantes:
 - Kefer01
 - Winlolo
 - [bensmithperez](https://github.com/bensmithperez)
+- danielcuque
+- damianpeaf
 
 <!--
 
