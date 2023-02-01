@@ -4,6 +4,7 @@ Este repositorio pertenece al grupo de proyecto de Ingenieria en Sistemas GT - D
 Si tienes alguna duda escríbenos a codersfreelancersgt@gmail.com
 
 Participantes:
+    Jandre
 
 
 
