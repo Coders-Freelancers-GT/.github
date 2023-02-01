@@ -6,10 +6,11 @@ Si tienes alguna duda escríbenos a codersfreelancersgt@gmail.com
 ---------------------------
 
 Participantes:
-
+- Oscar G. - Elchuzo
 - Kefer01
 - Winlolo
 - danielcuque
+- damianpeaf
 
 <!--
 
