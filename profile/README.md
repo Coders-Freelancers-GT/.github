@@ -3,9 +3,12 @@
 Este repositorio pertenece al grupo de proyecto de Ingenieria en Sistemas GT - Discord.
 Si tienes alguna duda escríbenos a codersfreelancersgt@gmail.com
 
-Participantes:
+---------------------------
 
-Oscar G. - Elchuzo
+Participantes:
+- Oscar G. - Elchuzo
+- Kefer01
+- Winlolo
 
 <!--
 
