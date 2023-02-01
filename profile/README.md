@@ -9,6 +9,7 @@ Participantes:
 - Oscar G. - Elchuzo
 - Kefer01
 - Winlolo
+- danielcuque
 - damianpeaf
 
 <!--
