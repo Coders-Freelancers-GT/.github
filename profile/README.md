@@ -3,9 +3,11 @@
 Este repositorio pertenece al grupo de proyecto de Ingenieria en Sistemas GT - Discord.
 Si tienes alguna duda escríbenos a codersfreelancersgt@gmail.com
 
+---------------------------
+
 Participantes:
 
-
+- Kefer01
 
 <!--
 
